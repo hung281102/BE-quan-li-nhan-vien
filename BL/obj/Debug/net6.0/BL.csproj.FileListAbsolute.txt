@@ -1,0 +1,17 @@
+D:\Code\ASPNET\WebAPI_Intern\BL\bin\Debug\net6.0\BL.deps.json
+D:\Code\ASPNET\WebAPI_Intern\BL\bin\Debug\net6.0\BL.dll
+D:\Code\ASPNET\WebAPI_Intern\BL\bin\Debug\net6.0\BL.pdb
+D:\Code\ASPNET\WebAPI_Intern\BL\bin\Debug\net6.0\DL.dll
+D:\Code\ASPNET\WebAPI_Intern\BL\bin\Debug\net6.0\DL.pdb
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\BL.dll
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\refint\BL.dll
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\BL.pdb
+D:\Code\ASPNET\WebAPI_Intern\BL\obj\Debug\net6.0\ref\BL.dll
+D:\Code\ASPNET\WebAPI_Intern\BL\bin\Debug\net6.0\Common.dll
+D:\Code\ASPNET\WebAPI_Intern\BL\bin\Debug\net6.0\Common.pdb

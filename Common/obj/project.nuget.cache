@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wmA18T55r/TJ2krHNF8DUYcH6M+Q5v0mb6k35kmFpPGOcbvxLG23x2w0D2jCieSUfdxcMNDej63WOsC2NF/98g==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\ASPNET\\WebAPI_Intern\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UHuzng11\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\UHuzng11\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\UHuzng11\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\UHuzng11\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
